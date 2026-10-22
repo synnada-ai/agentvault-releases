@@ -2,7 +2,7 @@
 
 Signed and notarized native macOS installers for Agent Vault.
 
-[Download for Mac](https://github.com/synnada-ai/agentvault-releases/releases/download/v0.1.7/Agent-Vault-0.1.7-arm64.dmg)
+[Download for Mac](https://github.com/synnada-ai/agentvault-releases/releases/download/v0.1.9/Agent-Vault-0.1.9-arm64.dmg)
 
 Requires macOS 15 or later on Apple silicon. Open the disk image and drag Agent Vault to Applications.
 
