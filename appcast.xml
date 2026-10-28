@@ -2,9 +2,9 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>Agent Vault updates</title><link>https://agentvault.run</link><description>Signed Agent Vault releases for macOS.</description>
-<item><title>Agent Vault 0.1.20</title><sparkle:version>23</sparkle:version><sparkle:shortVersionString>0.1.20</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/synnada-ai/agentvault-releases/releases/download/v0.1.20/Agent-Vault-0.1.20-arm64.dmg" length="43094030" type="application/octet-stream" sparkle:edSignature="NHx7/B25c8zYyj8UHGpvYZzWR76P7BIlc9KgYyG9PEOHN46ID1Dhy+zZ2b+cnx1MQyjbOL7V8fiYYpEgjidBCg=="></enclosure>
+<item><title>Agent Vault 0.1.21</title><sparkle:version>24</sparkle:version><sparkle:shortVersionString>0.1.21</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/synnada-ai/agentvault-releases/releases/download/v0.1.21/Agent-Vault-0.1.21-arm64.dmg" length="43148187" type="application/octet-stream" sparkle:edSignature="xwRQStMJ4PRrCIEqI4vyxlKdVxFTHH67WGmK3JfsHfqU3JvZ5YfKfc4VtqDKNzxyCzBdbAU5D0jGS0+xkmWyCg=="></enclosure>
 </item></channel></rss><!-- sparkle-signatures:
-edSignature: peJjbfCQZ/jJ88wrRwuTOHX7dlowQSTrIG33TPLqOXtZkgougoIX6+c0wN0BEM1zT8i0OAKTM4+al29a8HTwCw==
+edSignature: hLrpPvh1ruoHltzUBvKUSqGX5WIBLFaWHyiMVCYmjIQc5KeLFyuqVEez4IhxcQfdCPu6B4I0zB/I/zyS28jPDQ==
 length: 1047
 -->
